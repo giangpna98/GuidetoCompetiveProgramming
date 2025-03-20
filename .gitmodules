@@ -1,0 +1,3 @@
+[submodule "GuidetoCompetitiveProgramming/Chapter2/RecursiveAlgorithms"]
+	path = GuidetoCompetitiveProgramming/Chapter2/RecursiveAlgorithms
+	url = git@github.com:giangpna98/GuidetoCompetiveProgramming.git
